@@ -10,10 +10,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 This web app allows user to report issues with local streets. They can submit reports for potholes, flooded streets, a tree down in the middle of the street, excessive trash, etc., anything that the city might be responsible for. The city for each respective report will be notified of the reports, and they can plan their roadwork with these in mind.
 
 ### Features
-secure login
-create issue reports
-third party api integration 
-photo upload 
+ - secure login
+ - create issue reports
+ - third party api integration 
+ - photo upload 
 
 ### Technologies
  - Java
