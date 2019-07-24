@@ -1,5 +1,7 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+
+##### Trello Board #####
+https://trello.com/b/EP8MXSXK/local-reports
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
@@ -17,7 +19,7 @@ This web app allows user to report issues with local streets. They can submit re
 
 ### Technologies
  - Java
- - JavaScript (for Google Maps API)
+ - JavaScript & JSON (for Google Maps API)
  - API integration
  - Spring Boot, Spring Security
  - HTML, CSS, Bootstrap
