@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
+This web app allows user to report issues with local streets. They can submit reports for potholes, flooded streets, a tree down in the middle of the street, excessive trash, etc., anything that the city might be responsible for. The city for each respective report will be notified of the reports, and they can plan their roadwork with these in mind.
 
+### Features
+secure login
+create issue reports
+third party api integration 
+photo upload 
+
+### Technologies
+ - Java
+ - JavaScript (for Google Maps API)
+ - API integration
+ - Spring Boot, Spring Security
+ - HTML, CSS, Bootstrap
+ - MySQL (?)
+ - JPA annotations (??)
+ 
 ### What I'll Have to Learn
-Include what you will need to learn here
+ - How to work with the Google Maps API!
+ - user authentication, validation, roles (?)
+ - how to attach a report to a location on Google Maps
