@@ -14,6 +14,18 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+Trello board: Local Reports: https://trello.com/b/EP8MXSXK/local-reports
+
+Trello lists on this board: 
+- Up Next
+- In Progress
+- Completed
+
+- Class Assignments
+- User Stories: MVP
+- User Stories: MVP2
+- User Stories: Icebox / Backlog
+
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+Github: https://github.com/mstaten/capstone
