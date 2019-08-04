@@ -22,9 +22,10 @@ Trello lists on this board:
 - Completed
 
 - Class Assignments
-- User Stories: MVP
+- User Stories: MVP (finished & archived)
 - User Stories: MVP2
 - User Stories: Icebox / Backlog
+- Bugs
 
 ### Project Repo Link
 
