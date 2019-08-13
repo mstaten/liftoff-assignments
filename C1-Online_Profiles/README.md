@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [My LinkedIn profile](https://www.linkedin.com/in/michelle-staten/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[My resume](https://github.com/mstaten/liftoff-assignments/blob/master/C1-Online_Profiles/staten_resume.pdf)
