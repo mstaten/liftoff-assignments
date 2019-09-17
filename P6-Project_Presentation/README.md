@@ -1,10 +1,7 @@
 # Project Presentation
-We want to you to create a set of presentation slides summarizing your project.
 
-## Assignment Description
-[Project Presentation Assignment](https://education.launchcode.org/liftoff/assignments/project-presentation/)
+### GitHub link
+[Capstone repository on GitHub](https://github.com/mstaten/capstone)
 
-## Submission Instructions
-
-### Presentation
-Upload a .PDF of your presentation here for review.
+### PowerPoint pdf & link
+![Capstone PowerPoint](https://github.com/mstaten/liftoff-assignments/blob/master/P6-Project_Presentation/staten_capstone_presentation.pdf)
